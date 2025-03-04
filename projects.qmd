@@ -1,0 +1,8 @@
+---
+title: "Projects"
+editor: visual
+---
+
+### Project 1
+
+### Project 2
